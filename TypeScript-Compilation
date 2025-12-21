@@ -1,0 +1,22 @@
+```mermaid
+graph LR
+    subgraph Development
+        A[File .ts] -- "Ditulis oleh Developer" --> B[TypeScript Compiler / tsc]
+    end
+
+    subgraph Configuration
+        E[tsconfig.json] -- "Mengatur Aturan" --> B
+    end
+
+    subgraph Output
+        B -- "Transpile" --> C[File .js]
+        B -- "Generate" --> D[File .js.map]
+    end
+
+    C --> F((Browser / Node.js))
+    D -.-> G[Debugging di Source Tab]
+
+    style A fill:#3178c6,color:#fff
+    style E fill:#f0db4f,color:#000
+    style B fill:#2d2d2d,color:#fff
+```

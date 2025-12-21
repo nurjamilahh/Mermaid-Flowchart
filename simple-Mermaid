@@ -1,0 +1,10 @@
+```mermaid
+graph TD
+    A[Start] --> B[Initialize Counter: Count=0]; 
+    %% Ini adalah langkah Preparation
+    B --> C{Count < 10?};
+    C -- Yes --> D[Add 1 to Count];
+    D --> C;
+    C -- No --> E((End));
+    
+```
