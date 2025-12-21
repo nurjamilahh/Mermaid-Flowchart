@@ -1,7 +1,7 @@
 # 📊 Koleksi Mermaid Flowchart 
 
 Selamat datang di folder dokumentasi visual saya! 
-Folder ini berisi 3 (tiga) bentuk Mermaid Flowchart yang saya coba buat di bulan Desember 2025 pada bulan kedua kursus software engineering. 
+Folder ini berisi 4 (empat) bentuk Mermaid Flowchart yang saya coba buat di bulan Desember 2025 pada bulan kedua kursus software engineering. 
 
 ## 🚀 Mengapa Menggunakan Mermaid?
 Mermaid memungkinkan saya untuk membuat diagram menggunakan teks (markup), sehingga:
@@ -52,7 +52,7 @@ graph TD
     B -- Sudah --> D[Implementasi Kode TS]
     D --> E[Selesai & Commit]
 ```
-Saya sering lupa 3 (tiga) backtick ini! :D
+Saya sering lupa menambahkan 3 (tiga) backtick penutup! :D
 
 ---  
 
