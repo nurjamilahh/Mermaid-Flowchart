@@ -65,8 +65,7 @@ Saya sering lupa menambahkan 3 (tiga) backtick penutup! :D
 ---
 
 ## Contact
-Terima kasih telah melihat catatan belajar saya! Jika ada pertanyaan/diskusi, silakan hubungi:
+Terima kasih telah melihat catatan belajar saya! Jika ada pertanyaan/diskusi, saya di:
 
-* **LinkedIn (English):** [https://www.linkedin.com/in/nurjamilah-h/](https://www.linkedin.com/in/nurjamilah-h/)
 * **LinkedIn (Bahasa Indonesia):** [https://www.linkedin.com/in/nur-jamilah-harahap/](https://www.linkedin.com/in/nurjamilah-harahap/)
 * **Email:** worknurjam@gmail.com
