@@ -28,8 +28,6 @@ Saya mengedit atau melihat flowchart ini di **VS Code**, dan menggunakan/mengins
    - Render diagram jauh lebih cepat dan akurat.
    - Bisa ekspor diagram ke format PNG, SVG, bahkan PDF dengan mudah.
 
-> **Catatan:** Jika kamu menyalin kode ini dan terdapat tulisan `text` di baris teratas blok kode, silakan ganti menjadi `mermaid` agar kode tersebut dapat dirender menjadi flowchart.
-
 ---
 
 ## 📂 Pratinjau Flowchart
@@ -55,6 +53,17 @@ graph TD
     B -- Sudah --> D[Implementasi Kode TS]
     D --> E[Selesai & Commit]
 ```
+
+> **Catatan:** Jika kamu menyalin kode ini dan terdapat tulisan `text` di baris teratas blok kode, silakan ganti menjadi `mermaid` agar kode tersebut dapat dirender menjadi flowchart.
+
+Bentuk kurung mempengaruhi output sebagai berikut. 
+1. **Jajaran Genjang [/.../]** Input: Menerima data mentah dari pengguna.
+2. **Subrutin [[...]]** Proses Kompleks: Rangkaian langkah detail (misalnya, memeriksa panjang ID, memformat nama, menghapus karakter ilegal).
+3. **Berlian {...}** Keputusan: Menguji kondisi (Ya/Tidak).
+4. **Jajaran Genjang [/.../]** Output: Menampilkan pesan atau data keluar (pesan error dikirim kembali ke pengguna).
+5. **Subrutin [[...]]** Proses Kompleks: Melambangkan proses generating file, yang mungkin melibatkan banyak langkah layout dan pemformatan.
+6. **Jajaran Genjang [/.../]** Output: Data (laporan) dikirim keluar dari sistem ke lingkungan eksternal (email pengguna).
+7. **Lingkaran Ganda ((...))** Terminator: Akhir dari alur.
 
 ---  
 
