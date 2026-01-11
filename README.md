@@ -44,7 +44,7 @@ Berikut adalah beberapa alur logika yang sudah saya petakan:
 ## 📝 Contoh Sintaks
 Berikut adalah contoh sederhana bagaimana saya menuliskan flowchart di sini:
 
-```mermaid
+```text
 graph TD
     A[Mulai Belajar] --> B{Paham Konsep?}
     B -- Belum --> C[Baca Dokumentasi/Bikin Flowchart]
@@ -52,8 +52,7 @@ graph TD
     B -- Sudah --> D[Implementasi Kode TS]
     D --> E[Selesai & Commit]
 ```
-Saya sering lupa menambahkan 3 (tiga) backtick penutup! :D
-
+Tulisan 'text' di atas agar diganti 'mermaid' supaya coding tersebut bisa jadi flowchart.
 ---  
 
 ## 📚 Referensi Tambahan
