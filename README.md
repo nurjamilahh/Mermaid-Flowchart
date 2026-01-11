@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Nurjam Projects Logo" width="100">
+  <img src="logo-nurjam.png" alt="Nurjam Projects Logo" width="200">
   <h1>Mermaid-Flowchart</h1>
 </div>
 
