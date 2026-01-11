@@ -73,6 +73,9 @@ Terima kasih telah melihat catatan belajar saya! Jika ada pertanyaan/diskusi, sa
   <a href="https://github.com/nurjamilahh">
     <img src="https://img.shields.io/badge/NURJAM_PROJECTS-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Nurjam Projects" height="30">
   </a>
+  <a href="https://linkedin.com/in/nur-jamilah-harahap" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:worknurjam@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30">
   </a>
@@ -82,10 +85,11 @@ Terima kasih telah melihat catatan belajar saya! Jika ada pertanyaan/diskusi, sa
 </p>
 
 **Scan atau klik QR di bawah untuk terhubung di LinkedIn:**
-
+<p align="left">
 <a href="https://www.linkedin.com/in/nur-jamilah-harahap">
   <img src="assets/LinkedIn-NurJH.png" width="150" alt="LinkedIn QR">
 </a>
+</p>
 
 ---
 
